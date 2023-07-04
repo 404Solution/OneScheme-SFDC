@@ -1,0 +1,14 @@
+|24-01-2022 15:21:49|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 24 de enero del 2022 a las 3:21:49
+||24-01-2022 15:21:49|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||24-01-2022 15:22:00|T1|INFO| steps.StepLogin |Login|50|Estimate time = 1 ms
+||24-01-2022 15:22:00|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||24-01-2022 15:22:35|T1|ERROR| steps.StepLogin |Login|94|Class ERROR: unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:53470}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e36fecbae8c56d336a2f2a1049e19e0e
+|

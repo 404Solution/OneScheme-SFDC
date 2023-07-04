@@ -1,0 +1,58 @@
+|03-07-2023 11:41:10|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 3 de July del 2023 a las 11:41:10
+||03-07-2023 11:41:10|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||03-07-2023 11:41:22|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||03-07-2023 11:41:22|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||03-07-2023 11:41:26|T1|ERROR| steps.StepLogin |Login|102|Class ERROR: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=114.0.5735.198)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:1ca5:8dcb:d9df:58ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.198, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:58342}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 42ab64810807b4ae8d6af3f8d670116f
+||03-07-2023 11:41:37|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 3 de July del 2023 a las 11:41:37
+||03-07-2023 11:41:37|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||03-07-2023 11:41:40|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||03-07-2023 11:41:40|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||03-07-2023 11:41:40|T1|ERROR| steps.StepLogin |Login|102|Class ERROR: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=114.0.5735.198)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:1ca5:8dcb:d9df:58ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.198, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:58358}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1002ab398a59e74e03a3ffe169cfc909
+||03-07-2023 11:48:48|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 3 de July del 2023 a las 11:48:48
+||03-07-2023 11:48:48|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||03-07-2023 11:48:52|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||03-07-2023 11:48:52|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||03-07-2023 11:48:52|T1|ERROR| steps.StepLogin |Login|102|Class ERROR: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=114.0.5735.198)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:1ca5:8dcb:d9df:58ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.198, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:58618}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fb73a0e2f8cd51cc3cb3218f87a23881
+||03-07-2023 11:51:30|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 3 de July del 2023 a las 11:51:30
+||03-07-2023 11:51:30|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||03-07-2023 11:51:34|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||03-07-2023 11:51:34|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||03-07-2023 11:51:43|T1|INFO| steps.StepLogin |Login|61|Login succesfully
+||03-07-2023 11:51:43|T1|INFO| steps.StepLogin |Login|63|Selecting issue :https://jira-test.bbpd.io/projects/BBCOM/issues/BBCOM-8
+||03-07-2023 11:52:13|T1|ERROR| steps.StepLogin |Login|102|Class ERROR: Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="descriptionmodule_heading"]/h4 (tried for 30 second(s) with 500 milliseconds interval)
+||03-07-2023 12:24:36|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 3 de July del 2023 a las 0:24:36
+||03-07-2023 12:24:36|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||03-07-2023 12:24:40|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||03-07-2023 12:24:40|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||03-07-2023 12:24:43|T1|INFO| steps.StepLogin |Login|61|Login succesfully
+||03-07-2023 12:24:43|T1|INFO| steps.StepLogin |Login|62|Selecting issue :https://jira-test.bbpd.io/projects/BBCOM/issues/BBCOM-8
+||03-07-2023 12:37:39|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 3 de July del 2023 a las 0:37:39
+||03-07-2023 12:37:39|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||03-07-2023 12:37:43|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||03-07-2023 12:37:43|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||03-07-2023 12:37:47|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||03-07-2023 12:38:17|T1|ERROR| steps.StepLogin |Login|105|Class ERROR: Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="descriptionmodule_heading"]/h4 (tried for 30 second(s) with 500 milliseconds interval)
+||03-07-2023 12:40:39|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 3 de July del 2023 a las 0:40:39
+||03-07-2023 12:40:39|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||03-07-2023 12:40:42|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||03-07-2023 12:40:42|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||03-07-2023 12:40:46|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+|

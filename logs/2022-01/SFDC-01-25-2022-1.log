@@ -1,0 +1,294 @@
+|25-01-2022 16:43:43|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 4:43:43
+||25-01-2022 16:43:43|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||25-01-2022 16:43:48|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||25-01-2022 16:43:48|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||25-01-2022 16:43:59|T1|INFO| steps.StepLogin |Login|61|Login succesfully
+||25-01-2022 16:43:59|T1|INFO| steps.StepLogin |Login|63|Selecting project
+||25-01-2022 16:44:33|T1|INFO| steps.StepLogin |Login|79|Project selected
+||25-01-2022 16:54:53|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 4:54:53
+||25-01-2022 16:54:53|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||25-01-2022 16:54:57|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||25-01-2022 16:54:57|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||25-01-2022 16:55:20|T1|INFO| steps.StepLogin |Login|60|Login succesfully
+||25-01-2022 16:55:20|T1|INFO| steps.StepLogin |Login|62|Selecting project
+||25-01-2022 16:55:20|T1|INFO| steps.StepLogin |Login|66|Project selected
+||25-01-2022 16:55:41|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 4:55:41
+||25-01-2022 16:55:41|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||25-01-2022 16:55:44|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||25-01-2022 16:55:44|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||25-01-2022 16:56:05|T1|INFO| steps.StepLogin |Login|60|Login succesfully
+||25-01-2022 16:56:05|T1|INFO| steps.StepLogin |Login|62|Selecting project
+||25-01-2022 16:56:05|T1|INFO| steps.StepLogin |Login|66|Project selected
+||25-01-2022 16:57:54|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 4:57:54
+||25-01-2022 16:57:54|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||25-01-2022 16:57:58|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||25-01-2022 16:57:58|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||25-01-2022 16:58:21|T1|INFO| steps.StepLogin |Login|60|Login succesfully
+||25-01-2022 16:58:21|T1|INFO| steps.StepLogin |Login|62|Selecting project
+||25-01-2022 16:58:21|T1|INFO| steps.StepLogin |Login|66|Project selected
+||25-01-2022 16:58:38|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 4:58:38
+||25-01-2022 16:58:38|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||25-01-2022 16:58:41|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||25-01-2022 16:58:41|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||25-01-2022 16:59:08|T1|ERROR| steps.StepLogin |Login|77|Class ERROR: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:57698}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6bc7f3f39df1eb0e5071eb78b3bb5654
+||25-01-2022 16:59:11|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 4:59:11
+||25-01-2022 16:59:11|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||25-01-2022 16:59:14|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||25-01-2022 16:59:14|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||25-01-2022 16:59:41|T1|INFO| steps.StepLogin |Login|60|Login succesfully
+||25-01-2022 16:59:41|T1|INFO| steps.StepLogin |Login|62|Selecting project
+||25-01-2022 16:59:41|T1|INFO| steps.StepLogin |Login|66|Project selected
+||25-01-2022 17:01:21|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:1:21
+||25-01-2022 17:01:21|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||25-01-2022 17:01:25|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||25-01-2022 17:01:25|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||25-01-2022 17:01:50|T1|INFO| steps.StepLogin |Login|60|Login succesfully
+||25-01-2022 17:01:50|T1|INFO| steps.StepLogin |Login|62|Selecting project
+||25-01-2022 17:01:50|T1|INFO| steps.StepLogin |Login|66|Project selected
+||25-01-2022 17:05:26|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:5:26
+||25-01-2022 17:05:26|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||25-01-2022 17:05:29|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||25-01-2022 17:05:29|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||25-01-2022 17:06:34|T1|INFO| steps.StepLogin |Login|60|Login succesfully
+||25-01-2022 17:06:34|T1|INFO| steps.StepLogin |Login|62|Selecting issue
+||25-01-2022 17:06:34|T1|ERROR| steps.StepLogin |Login|81|Class ERROR: unexpected alert open: {Alert text : }
+  (Session info: chrome=97.0.4692.99): {Alert text : 
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:60266}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 31bf00e330ac9c860809dcc675a63106
+*** Element info: {Using=xpath, value=//*[@id="sf-issue-overview-accordion-learnJIRA__c-a1r3I000000hAPMQA2"]/div/div/div[2]/div/span/span[2]}
+||25-01-2022 17:06:39|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:6:39
+||25-01-2022 17:06:39|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||25-01-2022 17:06:42|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||25-01-2022 17:06:42|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||25-01-2022 17:06:55|T1|INFO| steps.StepLogin |Login|60|Login succesfully
+||25-01-2022 17:06:55|T1|INFO| steps.StepLogin |Login|62|Selecting issue
+||25-01-2022 17:07:28|T1|ERROR| steps.StepLogin |Login|81|Class ERROR: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id="sf-issue-overview-accordion-learnJIRA__c-a1r3I000000hAPMQA2"]/div/div/div[2]/div/span/span[2] (tried for 30 second(s) with 500 milliseconds interval)
+||25-01-2022 17:10:16|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:10:16
+||25-01-2022 17:10:16|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||25-01-2022 17:10:19|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||25-01-2022 17:10:19|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||25-01-2022 17:10:34|T1|INFO| steps.StepLogin |Login|60|Login succesfully
+||25-01-2022 17:10:34|T1|INFO| steps.StepLogin |Login|62|Selecting issue
+||25-01-2022 17:10:50|T1|ERROR| steps.StepLogin |Login|84|Class ERROR: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Auto-Pull']"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:63477}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9266c05599120422e6ea14cac59b9a6f
+*** Element info: {Using=xpath, value=//*[text()='Auto-Pull']}
+||25-01-2022 17:11:49|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:11:49
+||25-01-2022 17:11:49|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||25-01-2022 17:11:52|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||25-01-2022 17:11:52|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||25-01-2022 17:12:10|T1|INFO| steps.StepLogin |Login|60|Login succesfully
+||25-01-2022 17:12:10|T1|INFO| steps.StepLogin |Login|62|Selecting issue
+||25-01-2022 17:12:25|T1|ERROR| steps.StepLogin |Login|86|Class ERROR: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Auto-Pull']"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:64458}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b34ce5cdedc371a7a9867f5765c318a
+*** Element info: {Using=xpath, value=//*[text()='Auto-Pull']}
+||25-01-2022 17:17:10|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:17:10
+||25-01-2022 17:17:10|T1|INFO| steps.StepLogin |main|47|Starting nav... please wait.
+||25-01-2022 17:17:14|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:17:14|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:17:51|T1|INFO| steps.StepLogin |Login|62|Login succesfully
+||25-01-2022 17:17:51|T1|INFO| steps.StepLogin |Login|64|Selecting issue
+||25-01-2022 17:17:51|T1|INFO| steps.StepLogin |Login|74|Issue selected
+||25-01-2022 17:41:15|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:41:15
+||25-01-2022 17:41:15|T1|INFO| steps.StepLogin |main|49|Starting nav... please wait.
+||25-01-2022 17:41:26|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:41:26|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:41:33|T1|INFO| steps.StepLogin |Login|62|Login succesfully
+||25-01-2022 17:41:33|T1|INFO| steps.StepLogin |Login|64|Selecting issue
+||25-01-2022 17:41:33|T1|INFO| steps.StepLogin |Login|72|Issue selected
+||25-01-2022 17:42:46|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:42:46
+||25-01-2022 17:42:46|T1|INFO| steps.StepLogin |main|49|Starting nav... please wait.
+||25-01-2022 17:42:52|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:42:52|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:42:59|T1|INFO| steps.StepLogin |Login|62|Login succesfully
+||25-01-2022 17:42:59|T1|INFO| steps.StepLogin |Login|64|Selecting issue
+||25-01-2022 17:42:59|T1|INFO| steps.StepLogin |Login|72|Issue selected
+||25-01-2022 17:43:25|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:43:25
+||25-01-2022 17:43:25|T1|INFO| steps.StepLogin |main|49|Starting nav... please wait.
+||25-01-2022 17:43:31|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:43:31|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:43:39|T1|INFO| steps.StepLogin |Login|62|Login succesfully
+||25-01-2022 17:43:39|T1|INFO| steps.StepLogin |Login|64|Selecting issue
+||25-01-2022 17:43:39|T1|INFO| steps.StepLogin |Login|72|Issue selected
+||25-01-2022 17:44:13|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:44:13
+||25-01-2022 17:44:13|T1|INFO| steps.StepLogin |main|49|Starting nav... please wait.
+||25-01-2022 17:44:19|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:44:19|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:44:30|T1|INFO| steps.StepLogin |Login|62|Login succesfully
+||25-01-2022 17:44:30|T1|INFO| steps.StepLogin |Login|64|Selecting issue
+||25-01-2022 17:44:30|T1|INFO| steps.StepLogin |Login|72|Issue selected
+||25-01-2022 17:45:16|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:45:16
+||25-01-2022 17:45:16|T1|INFO| steps.StepLogin |main|49|Starting nav... please wait.
+||25-01-2022 17:45:22|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:45:22|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:45:30|T1|INFO| steps.StepLogin |Login|62|Login succesfully
+||25-01-2022 17:45:30|T1|INFO| steps.StepLogin |Login|63|Selecting issue
+||25-01-2022 17:46:32|T1|ERROR| steps.StepLogin |Login|83|Class ERROR: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id="sf-issue-overview-accordion-learnJIRA__c-a1r3I000000hAPMQA2"]/div/div/div[2]/div/span/span[2] (tried for 60 second(s) with 500 milliseconds interval)
+||25-01-2022 17:47:53|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:47:53
+||25-01-2022 17:47:53|T1|INFO| steps.StepLogin |main|49|Starting nav... please wait.
+||25-01-2022 17:47:58|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:47:58|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:48:25|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:48:25
+||25-01-2022 17:48:25|T1|INFO| steps.StepLogin |main|49|Starting nav... please wait.
+||25-01-2022 17:48:30|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:48:30|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:48:58|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:48:58
+||25-01-2022 17:48:58|T1|INFO| steps.StepLogin |main|49|Starting nav... please wait.
+||25-01-2022 17:49:03|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:49:03|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:50:12|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:50:12
+||25-01-2022 17:50:12|T1|INFO| steps.StepLogin |main|49|Starting nav... please wait.
+||25-01-2022 17:50:18|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:50:18|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:50:25|T1|ERROR| steps.StepLogin |Login|78|Class ERROR: TypeError: this.curBrowser.contentBrowser is null
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 97.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220116190254, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 70709, moz:profile: /var/folders/8x/sqr_05cx4zs..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 20.6.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0fa065b5-cd59-43be-a917-75f6fca57dd1
+||25-01-2022 17:50:49|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:50:49
+||25-01-2022 17:50:49|T1|INFO| steps.StepLogin |main|49|Starting nav... please wait.
+||25-01-2022 17:50:55|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:50:55|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:51:04|T1|ERROR| steps.StepLogin |Login|78|Class ERROR: Browsing context has been discarded
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 97.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220116190254, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 70756, moz:profile: /var/folders/8x/sqr_05cx4zs..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 20.6.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a7b69e91-28ec-4985-87eb-fa4311db4cdf
+*** Element info: {Using=xpath, value=//*[@id="login-form-username"]}
+||25-01-2022 17:51:42|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:51:42
+||25-01-2022 17:51:42|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||25-01-2022 17:51:46|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:51:46|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:52:42|T1|ERROR| steps.StepLogin |Login|78|Class ERROR: unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:59969}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5187daa2cf72b220f318affcc0d4c726
+||25-01-2022 17:52:50|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:52:50
+||25-01-2022 17:52:50|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||25-01-2022 17:52:54|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:52:54|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:53:11|T1|INFO| steps.StepLogin |Login|62|Login succesfully
+||25-01-2022 17:53:11|T1|INFO| steps.StepLogin |Login|63|Selecting issue
+||25-01-2022 17:53:11|T1|INFO| steps.StepLogin |Login|67|Issue selected
+||25-01-2022 17:54:51|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:54:51
+||25-01-2022 17:54:51|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||25-01-2022 17:54:55|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:54:55|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:55:06|T1|INFO| steps.StepLogin |Login|62|Login succesfully
+||25-01-2022 17:55:06|T1|INFO| steps.StepLogin |Login|63|Selecting issue
+||25-01-2022 17:55:06|T1|INFO| steps.StepLogin |Login|67|Issue selected
+||25-01-2022 17:55:20|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:55:20
+||25-01-2022 17:55:20|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||25-01-2022 17:55:24|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:55:24|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:56:00|T1|INFO| steps.StepLogin |Login|62|Login succesfully
+||25-01-2022 17:56:00|T1|INFO| steps.StepLogin |Login|63|Selecting issue
+||25-01-2022 17:56:00|T1|INFO| steps.StepLogin |Login|67|Issue selected
+||25-01-2022 17:56:59|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 5:56:59
+||25-01-2022 17:56:59|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||25-01-2022 17:57:02|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||25-01-2022 17:57:02|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||25-01-2022 17:57:21|T1|INFO| steps.StepLogin |Login|62|Login succesfully
+||25-01-2022 17:57:21|T1|INFO| steps.StepLogin |Login|63|Selecting issue
+||25-01-2022 17:57:21|T1|INFO| steps.StepLogin |Login|67|Issue selected
+||25-01-2022 18:00:00|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 6:0:0
+||25-01-2022 18:00:00|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||25-01-2022 18:00:03|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||25-01-2022 18:00:03|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||25-01-2022 18:00:25|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||25-01-2022 18:00:25|T1|INFO| steps.StepLogin |Login|64|Selecting issue
+||25-01-2022 18:00:25|T1|INFO| steps.StepLogin |Login|68|Issue selected
+||25-01-2022 18:00:55|T1|ERROR| steps.StepLogin |Login|91|Class ERROR: no such element: Unable to locate element: {"method":"link text","selector":"Branches"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:62515}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 048bd5e01c246fbe74afa070b1eb823d
+*** Element info: {Using=link text, value=Branches}
+||25-01-2022 18:04:33|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 6:4:33
+||25-01-2022 18:04:33|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||25-01-2022 18:04:42|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 6:4:42
+||25-01-2022 18:04:42|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||25-01-2022 18:04:45|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||25-01-2022 18:04:45|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||25-01-2022 18:05:02|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||25-01-2022 18:05:02|T1|INFO| steps.StepLogin |Login|64|Selecting issue
+||25-01-2022 18:05:02|T1|INFO| steps.StepLogin |Login|68|Issue selected
+||25-01-2022 18:05:02|T1|ERROR| steps.StepLogin |Login|78|Class ERROR: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:49190}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 157689c0721737aa5409ee88fd2d8872
+||25-01-2022 18:05:51|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 6:5:50
+||25-01-2022 18:05:51|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||25-01-2022 18:05:54|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||25-01-2022 18:05:54|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||25-01-2022 18:06:11|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||25-01-2022 18:06:11|T1|INFO| steps.StepLogin |Login|64|Selecting issue
+||25-01-2022 18:06:11|T1|INFO| steps.StepLogin |Login|68|Issue selected
+||25-01-2022 18:06:11|T1|ERROR| steps.StepLogin |Login|78|Class ERROR: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:50074}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 929dc4a4aeca0a880689697d329ed884
+||25-01-2022 18:06:50|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 6:6:50
+||25-01-2022 18:06:50|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||25-01-2022 18:06:55|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||25-01-2022 18:06:55|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||25-01-2022 18:07:06|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 6:7:6
+||25-01-2022 18:07:06|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||25-01-2022 18:07:11|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||25-01-2022 18:07:11|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||25-01-2022 18:07:36|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||25-01-2022 18:07:36|T1|INFO| steps.StepLogin |Login|64|Selecting issue
+||25-01-2022 18:07:36|T1|INFO| steps.StepLogin |Login|68|Issue selected
+||25-01-2022 18:07:36|T1|ERROR| steps.StepLogin |Login|80|Class ERROR: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:51076}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 67dceae1c62e10a7dfd5955d46cbcd6e
+||25-01-2022 18:08:53|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 25 de enero del 2022 a las 6:8:53
+||25-01-2022 18:08:53|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||25-01-2022 18:08:57|T1|INFO| steps.StepLogin |Login|53|Estimate time = 0 ms
+||25-01-2022 18:08:57|T1|INFO| steps.StepLogin |Login|54|Login in progress..
+||25-01-2022 18:09:16|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||25-01-2022 18:09:16|T1|INFO| steps.StepLogin |Login|64|Selecting issue
+||25-01-2022 18:09:16|T1|INFO| steps.StepLogin |Login|68|Issue selected
+||25-01-2022 18:09:47|T1|ERROR| steps.StepLogin |Login|78|Class ERROR: Expected condition failed: waiting for element to be clickable: By.id: sf-issue-overview-accordion-learnJIRA__c-a1r3I000000hAPMQA2-link-expand (tried for 30 second(s) with 500 milliseconds interval)
+|

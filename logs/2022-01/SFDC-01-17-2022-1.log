@@ -1,0 +1,31 @@
+|17-01-2022 15:33:31|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 17 de enero del 2022 a las 3:33:31
+||17-01-2022 15:33:31|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||17-01-2022 15:33:34|T1|INFO| steps.StepLogin |Login|48|Estimate time = 0 ms
+||17-01-2022 15:33:34|T1|INFO| steps.StepLogin |Login|49|Login in progress..
+||17-01-2022 15:33:41|T1|INFO| steps.StepLogin |Login|58|Login succesfully
+||17-01-2022 16:07:50|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 17 de enero del 2022 a las 4:7:50
+||17-01-2022 16:07:50|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||17-01-2022 16:07:54|T1|INFO| steps.StepLogin |Login|47|Estimate time = 0 ms
+||17-01-2022 16:07:54|T1|INFO| steps.StepLogin |Login|48|Login in progress..
+||17-01-2022 16:08:09|T1|INFO| steps.StepLogin |Login|58|Login succesfully
+||17-01-2022 16:08:09|T1|INFO| steps.StepLogin |Login|60|Selecting project
+||17-01-2022 16:09:03|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 17 de enero del 2022 a las 4:9:3
+||17-01-2022 16:09:03|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||17-01-2022 16:09:07|T1|INFO| steps.StepLogin |Login|47|Estimate time = 0 ms
+||17-01-2022 16:09:07|T1|INFO| steps.StepLogin |Login|48|Login in progress..
+||17-01-2022 16:09:15|T1|INFO| steps.StepLogin |Login|58|Login succesfully
+||17-01-2022 16:09:15|T1|INFO| steps.StepLogin |Login|60|Selecting project
+||17-01-2022 16:11:06|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 17 de enero del 2022 a las 4:11:6
+||17-01-2022 16:11:06|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||17-01-2022 16:11:09|T1|INFO| steps.StepLogin |Login|47|Estimate time = 0 ms
+||17-01-2022 16:11:09|T1|INFO| steps.StepLogin |Login|48|Login in progress..
+||17-01-2022 16:11:16|T1|INFO| steps.StepLogin |Login|58|Login succesfully
+||17-01-2022 16:11:16|T1|INFO| steps.StepLogin |Login|60|Selecting project
+||17-01-2022 16:14:21|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 17 de enero del 2022 a las 4:14:21
+||17-01-2022 16:14:21|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||17-01-2022 16:14:24|T1|INFO| steps.StepLogin |Login|47|Estimate time = 0 ms
+||17-01-2022 16:14:24|T1|INFO| steps.StepLogin |Login|48|Login in progress..
+||17-01-2022 16:14:28|T1|INFO| steps.StepLogin |Login|58|Login succesfully
+||17-01-2022 16:14:28|T1|INFO| steps.StepLogin |Login|60|Selecting project
+||17-01-2022 16:14:39|T1|INFO| steps.StepLogin |Login|73|Project selected
+|

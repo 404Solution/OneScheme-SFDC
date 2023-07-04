@@ -1,0 +1,308 @@
+|18-01-2022 11:37:22|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 11:37:22
+||18-01-2022 11:37:22|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 11:37:25|T1|INFO| steps.StepLogin |Login|47|Estimate time = 0 ms
+||18-01-2022 11:37:25|T1|INFO| steps.StepLogin |Login|48|Login in progress..
+||18-01-2022 11:37:31|T1|INFO| steps.StepLogin |Login|58|Login succesfully
+||18-01-2022 11:37:31|T1|INFO| steps.StepLogin |Login|60|Selecting project
+||18-01-2022 11:37:36|T1|ERROR| steps.StepLogin |Login|77|StepLogin Class ERROR: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="browse_link"]"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:58348}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a03637b67a49479b39047d4959292416
+*** Element info: {Using=xpath, value=//*[@id="browse_link"]}
+||18-01-2022 11:44:22|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 11:44:22
+||18-01-2022 11:44:22|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 11:44:26|T1|INFO| steps.StepLogin |Login|50|Estimate time = 1 ms
+||18-01-2022 11:44:26|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||18-01-2022 11:44:32|T1|INFO| steps.StepLogin |Login|61|Login succesfully
+||18-01-2022 11:44:32|T1|INFO| steps.StepLogin |Login|63|Selecting project
+||18-01-2022 11:45:02|T1|ERROR| steps.StepLogin |Login|88|StepLogin Class ERROR: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id=\"browse_link\"] (tried for 30 second(s) with 500 milliseconds interval)
+||18-01-2022 11:47:04|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 11:47:4
+||18-01-2022 11:47:04|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 11:47:08|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||18-01-2022 11:47:08|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||18-01-2022 11:47:14|T1|ERROR| steps.StepLogin |Login|87|Class ERROR: unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=97.0.4692.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:61556}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b1f7504838bbb6f46b43e4a79d68d12
+||18-01-2022 11:47:27|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 11:47:27
+||18-01-2022 11:47:27|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 11:47:31|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||18-01-2022 11:47:31|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||18-01-2022 11:47:37|T1|INFO| steps.StepLogin |Login|61|Login succesfully
+||18-01-2022 11:47:37|T1|INFO| steps.StepLogin |Login|63|Selecting project
+||18-01-2022 11:48:23|T1|ERROR| steps.StepLogin |Login|87|Class ERROR: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id=\"project_view_all_link_lnk\"] (tried for 30 second(s) with 500 milliseconds interval)
+||18-01-2022 11:49:06|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 11:49:6
+||18-01-2022 11:49:06|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 11:49:09|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||18-01-2022 11:49:09|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||18-01-2022 11:49:16|T1|INFO| steps.StepLogin |Login|61|Login succesfully
+||18-01-2022 11:49:16|T1|INFO| steps.StepLogin |Login|63|Selecting project
+||18-01-2022 11:50:13|T1|ERROR| steps.StepLogin |Login|84|Class ERROR: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id=\"project-filter-text\"] (tried for 30 second(s) with 500 milliseconds interval)
+||18-01-2022 11:51:13|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 11:51:13
+||18-01-2022 11:51:13|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 11:51:20|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||18-01-2022 11:51:20|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||18-01-2022 11:51:27|T1|INFO| steps.StepLogin |Login|61|Login succesfully
+||18-01-2022 11:51:27|T1|INFO| steps.StepLogin |Login|63|Selecting project
+||18-01-2022 11:52:18|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 11:52:18
+||18-01-2022 11:52:18|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 11:52:21|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||18-01-2022 11:52:21|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||18-01-2022 11:53:29|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 11:53:29
+||18-01-2022 11:53:29|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 11:53:32|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||18-01-2022 11:53:32|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||18-01-2022 11:53:43|T1|INFO| steps.StepLogin |Login|61|Login succesfully
+||18-01-2022 11:53:43|T1|INFO| steps.StepLogin |Login|63|Selecting project
+||18-01-2022 11:54:58|T1|ERROR| steps.StepLogin |Login|78|Class ERROR: Expected condition failed: waiting for visibility of element located by By.id: id="project-filter-text" (tried for 30 second(s) with 500 milliseconds interval)
+||18-01-2022 12:17:41|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 0:17:41
+||18-01-2022 12:17:41|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 12:17:45|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||18-01-2022 12:17:45|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||18-01-2022 12:17:52|T1|INFO| steps.StepLogin |Login|61|Login succesfully
+||18-01-2022 12:17:52|T1|INFO| steps.StepLogin |Login|63|Selecting project
+||18-01-2022 12:18:13|T1|INFO| steps.StepLogin |Login|79|Project selected
+||18-01-2022 12:42:25|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 0:42:25
+||18-01-2022 12:42:25|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 12:42:30|T1|INFO| steps.StepLogin |Login|51|Estimate time = 0 ms
+||18-01-2022 12:42:30|T1|INFO| steps.StepLogin |Login|52|Login in progress..
+||18-01-2022 12:42:36|T1|INFO| steps.StepLogin |Login|62|Login succesfully
+||18-01-2022 12:42:36|T1|INFO| steps.StepLogin |Login|64|Selecting project
+||18-01-2022 12:43:03|T1|INFO| steps.StepLogin |Login|80|Project selected
+||18-01-2022 12:43:08|T1|INFO| steps.StepLogin |Login|92|nothing..
+||18-01-2022 12:44:57|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 0:44:57
+||18-01-2022 12:44:57|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 12:45:00|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 12:45:00|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 12:45:08|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 12:45:08|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 12:45:23|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 12:45:28|T1|INFO| steps.StepLogin |Login|95|nothing..
+||18-01-2022 12:45:58|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 0:45:58
+||18-01-2022 12:45:58|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 12:46:02|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 12:46:02|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 12:46:15|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 12:46:15|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 12:46:54|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 12:46:59|T1|INFO| steps.StepLogin |Login|98|nothing..
+||18-01-2022 12:49:25|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 0:49:25
+||18-01-2022 12:49:25|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 12:49:28|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 12:49:28|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 12:49:36|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 12:49:36|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 12:49:57|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 12:50:02|T1|INFO| steps.StepLogin |Login|97|nothing..
+||18-01-2022 12:50:15|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 0:50:15
+||18-01-2022 12:50:15|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 12:50:19|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 12:50:19|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 12:50:28|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 12:50:28|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 12:50:50|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 12:50:55|T1|INFO| steps.StepLogin |Login|97|nothing..
+||18-01-2022 12:52:35|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 0:52:35
+||18-01-2022 12:52:35|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 12:52:38|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 12:52:38|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 12:52:48|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 12:52:48|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 12:53:23|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 12:53:29|T1|ERROR| steps.StepLogin |Login|106|Class ERROR: no such element: Unable to locate element: {"method":"css selector","selector":"#sf\-issue\-overview"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:50205}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dfd4553f8502bbc562d939d5c77b30da
+*** Element info: {Using=id, value=sf-issue-overview}
+||18-01-2022 12:53:53|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 0:53:53
+||18-01-2022 12:53:53|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 12:53:56|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 12:53:56|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 12:54:05|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 12:54:05|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 12:54:24|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 12:54:29|T1|ERROR| steps.StepLogin |Login|106|Class ERROR: no such element: Unable to locate element: {"method":"css selector","selector":"#sf\-issue\-overview"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:50897}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0ec3bfc3dafc6693c43e48ff5e5d3076
+*** Element info: {Using=id, value=sf-issue-overview}
+||18-01-2022 12:56:16|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 0:56:16
+||18-01-2022 12:56:16|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 12:56:19|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 12:56:19|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 12:56:24|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 12:56:24|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 12:56:37|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 12:57:13|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 0:57:13
+||18-01-2022 12:57:13|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 12:57:17|T1|INFO| steps.StepLogin |Login|52|Estimate time = 1 ms
+||18-01-2022 12:57:17|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 12:57:23|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 12:57:23|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 12:57:46|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 12:58:07|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 0:58:7
+||18-01-2022 12:58:07|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 12:58:11|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 12:58:11|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 12:58:20|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 12:58:20|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 12:58:36|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 13:01:00|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 1:1:0
+||18-01-2022 13:01:00|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 13:01:04|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 13:01:04|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 13:01:24|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 1:1:24
+||18-01-2022 13:01:24|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 13:01:28|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 13:01:28|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 13:01:33|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 13:01:33|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 13:01:53|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 13:02:21|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 1:2:21
+||18-01-2022 13:02:21|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 13:02:25|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 13:02:25|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 13:02:30|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 13:02:30|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 13:02:53|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 13:02:58|T1|ERROR| steps.StepLogin |Login|97|Class ERROR: no such element: Unable to locate element: {"method":"link text","selector":"Salesforce"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:55944}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 75f438755e49b506fb9a2aae6b337de1
+*** Element info: {Using=link text, value=Salesforce}
+||18-01-2022 13:04:37|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 1:4:37
+||18-01-2022 13:04:37|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 13:04:40|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 13:04:40|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 13:04:46|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 13:04:46|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 13:05:08|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 13:05:20|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 1:5:20
+||18-01-2022 13:05:20|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 13:05:24|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 13:05:24|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 13:05:29|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 13:05:29|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 13:06:14|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 13:07:23|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 1:7:23
+||18-01-2022 13:07:23|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 13:07:27|T1|INFO| steps.StepLogin |Login|55|Estimate time = 0 ms
+||18-01-2022 13:07:27|T1|INFO| steps.StepLogin |Login|56|Login in progress..
+||18-01-2022 13:07:33|T1|INFO| steps.StepLogin |Login|66|Login succesfully
+||18-01-2022 13:07:33|T1|INFO| steps.StepLogin |Login|68|Selecting project
+||18-01-2022 13:07:59|T1|INFO| steps.StepLogin |Login|84|Project selected
+||18-01-2022 13:08:53|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 1:8:53
+||18-01-2022 13:08:53|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 13:08:57|T1|INFO| steps.StepLogin |Login|55|Estimate time = 0 ms
+||18-01-2022 13:08:57|T1|INFO| steps.StepLogin |Login|56|Login in progress..
+||18-01-2022 13:09:08|T1|INFO| steps.StepLogin |Login|66|Login succesfully
+||18-01-2022 13:09:08|T1|INFO| steps.StepLogin |Login|68|Selecting project
+||18-01-2022 13:09:36|T1|INFO| steps.StepLogin |Login|84|Project selected
+||18-01-2022 13:10:40|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 1:10:40
+||18-01-2022 13:10:40|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 13:10:44|T1|INFO| steps.StepLogin |Login|55|Estimate time = 0 ms
+||18-01-2022 13:10:44|T1|INFO| steps.StepLogin |Login|56|Login in progress..
+||18-01-2022 13:10:54|T1|INFO| steps.StepLogin |Login|66|Login succesfully
+||18-01-2022 13:10:54|T1|INFO| steps.StepLogin |Login|68|Selecting project
+||18-01-2022 13:11:42|T1|INFO| steps.StepLogin |Login|84|Project selected
+||18-01-2022 20:14:00|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 8:14:0
+||18-01-2022 20:14:00|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 20:14:04|T1|INFO| steps.StepLogin |Login|55|Estimate time = 0 ms
+||18-01-2022 20:14:04|T1|INFO| steps.StepLogin |Login|56|Login in progress..
+||18-01-2022 20:14:12|T1|INFO| steps.StepLogin |Login|66|Login succesfully
+||18-01-2022 20:14:12|T1|INFO| steps.StepLogin |Login|68|Selecting project
+||18-01-2022 20:14:41|T1|INFO| steps.StepLogin |Login|84|Project selected
+||18-01-2022 20:33:02|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 8:33:2
+||18-01-2022 20:33:02|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 20:33:06|T1|INFO| steps.StepLogin |Login|55|Estimate time = 0 ms
+||18-01-2022 20:33:06|T1|INFO| steps.StepLogin |Login|56|Login in progress..
+||18-01-2022 20:33:16|T1|INFO| steps.StepLogin |Login|66|Login succesfully
+||18-01-2022 20:33:16|T1|INFO| steps.StepLogin |Login|68|Selecting project
+||18-01-2022 20:34:13|T1|INFO| steps.StepLogin |Login|84|Project selected
+||18-01-2022 20:34:18|T1|ERROR| steps.StepLogin |Login|98|Class ERROR: no such element: Unable to locate element: {"method":"link text","selector":"Project is not bound to any connection. No Salesforce objects yet associated with this issue."}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:59369}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 75899a012e2b12d9f5e3016d33823371
+*** Element info: {Using=link text, value=Project is not bound to any connection. No Salesforce objects yet associated with this issue.}
+||18-01-2022 20:35:47|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 8:35:47
+||18-01-2022 20:35:47|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 20:35:51|T1|INFO| steps.StepLogin |Login|55|Estimate time = 0 ms
+||18-01-2022 20:35:51|T1|INFO| steps.StepLogin |Login|56|Login in progress..
+||18-01-2022 20:36:05|T1|INFO| steps.StepLogin |Login|66|Login succesfully
+||18-01-2022 20:36:05|T1|INFO| steps.StepLogin |Login|68|Selecting project
+||18-01-2022 20:37:14|T1|INFO| steps.StepLogin |Login|84|Project selected
+||18-01-2022 20:37:19|T1|ERROR| steps.StepLogin |Login|98|Class ERROR: no such element: Unable to locate element: {"method":"css selector","selector":".aui\-layout\ aui\-theme\-default\ null\ page\-type\-split\ page\-issue\-navigator\ aui\-page\-sidebar"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JGUIOMBP19', ip: 'fe80:0:0:0:14ee:854c:b7c8:ba77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /var/folders/8x/sqr_05cx4zs...}, goog:chromeOptions: {debuggerAddress: localhost:60892}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5dad9f277b8196412f1e85e5c0a14b0f
+*** Element info: {Using=class name, value=aui-layout aui-theme-default null page-type-split page-issue-navigator aui-page-sidebar}
+||18-01-2022 20:51:34|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 8:51:34
+||18-01-2022 20:51:34|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||18-01-2022 20:51:39|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 20:51:39|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 20:51:52|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 20:51:52|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 20:52:45|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 21:00:52|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 9:0:52
+||18-01-2022 21:00:52|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||18-01-2022 21:00:52|T1|INFO| steps.StepLogin |main|58|Error main:The path to the driver executable The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases
+||18-01-2022 21:02:37|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 9:2:37
+||18-01-2022 21:02:37|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||18-01-2022 21:02:49|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 21:02:49|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 21:05:30|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 9:5:30
+||18-01-2022 21:05:30|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||18-01-2022 21:05:34|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 21:05:34|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 21:06:03|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 21:06:03|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 21:07:15|T1|INFO| steps.StepLogin |Login|81|Project selected
+|a77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [78393334-0465-4d05-ad0f-e52e9dc2d8bc, findElement {using=xpath, value=//*[@id="login-form-username"]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 97.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220116190254, moz:debuggerAddress: localhost:51505, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 26440, moz:profile: /var/folders/8x/sqr_05cx4zs..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 20.6.0, proxy: Proxy(), se:cdp: ws://localhost:51505/devtoo..., se:cdpVersion: 85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 78393334-0465-4d05-ad0f-e52e9dc2d8bc
+||18-01-2022 21:08:55|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 9:8:55
+||18-01-2022 21:08:55|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||18-01-2022 21:08:59|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 21:08:59|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 21:09:06|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 21:09:06|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 21:09:44|T1|INFO| steps.StepLogin |Login|81|Project selected
+||18-01-2022 21:10:09|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 18 de enero del 2022 a las 9:10:9
+||18-01-2022 21:10:09|T1|INFO| steps.StepLogin |main|48|Starting nav... please wait.
+||18-01-2022 21:10:13|T1|INFO| steps.StepLogin |Login|52|Estimate time = 0 ms
+||18-01-2022 21:10:13|T1|INFO| steps.StepLogin |Login|53|Login in progress..
+||18-01-2022 21:10:25|T1|INFO| steps.StepLogin |Login|63|Login succesfully
+||18-01-2022 21:10:25|T1|INFO| steps.StepLogin |Login|65|Selecting project
+||18-01-2022 21:11:25|T1|INFO| steps.StepLogin |Login|81|Project selected
+|

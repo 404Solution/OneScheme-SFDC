@@ -1,0 +1,24 @@
+|19-01-2022 12:08:35|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 19 de enero del 2022 a las 0:8:35
+||19-01-2022 12:08:35|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||19-01-2022 12:09:20|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 19 de enero del 2022 a las 0:9:20
+||19-01-2022 12:09:20|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||19-01-2022 12:09:24|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||19-01-2022 12:09:24|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||19-01-2022 12:09:35|T1|INFO| steps.StepLogin |Login|61|Login succesfully
+||19-01-2022 12:09:35|T1|INFO| steps.StepLogin |Login|63|Selecting project
+||19-01-2022 12:10:15|T1|INFO| steps.StepLogin |Login|79|Project selected
+||19-01-2022 12:11:23|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 19 de enero del 2022 a las 0:11:23
+||19-01-2022 12:11:23|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||19-01-2022 12:11:26|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||19-01-2022 12:11:26|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||19-01-2022 12:11:43|T1|INFO| steps.StepLogin |Login|61|Login succesfully
+||19-01-2022 12:11:43|T1|INFO| steps.StepLogin |Login|63|Selecting project
+||19-01-2022 12:12:12|T1|INFO| steps.StepLogin |Login|79|Project selected
+||19-01-2022 12:36:15|T1|INFO| interaccion.Interaccion |fecha_Ejec|82| STARTING.. Google Chrome 19 de enero del 2022 a las 0:36:15
+||19-01-2022 12:36:15|T1|INFO| steps.StepLogin |main|46|Starting nav... please wait.
+||19-01-2022 12:36:19|T1|INFO| steps.StepLogin |Login|50|Estimate time = 0 ms
+||19-01-2022 12:36:19|T1|INFO| steps.StepLogin |Login|51|Login in progress..
+||19-01-2022 12:36:30|T1|INFO| steps.StepLogin |Login|61|Login succesfully
+||19-01-2022 12:36:30|T1|INFO| steps.StepLogin |Login|63|Selecting project
+||19-01-2022 12:37:06|T1|INFO| steps.StepLogin |Login|79|Project selected
+|
