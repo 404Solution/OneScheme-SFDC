@@ -20,7 +20,7 @@ jobs:
       with:
         java-version: '17'
         distribution: 'temurin'
-        cache: none
+        cache: maven
     - name: Build with Maven
       run: mvn -B package --file pom.xml
 
@@ -29,11 +29,11 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
 
-    # - name: Clean up workspace
-    #   run: rm -rf ${{ github.workspace }}/*
+    - name: Clean up workspace
+      run: rm -rf ${{ github.workspace }}/*
 
-    # - name: Clean up runner
-    #   run: |
-    #     rm -rf /tmp/*
-    #     rm -rf ~/.m2/repository
-    #     rm -rf ${{ github.workspace }}
+    - name: Clean up runner
+      run: |
+        rm -rf /tmp/*
+        rm -rf ~/.m2/repository
+        rm -rf ${{ github.workspace }}
