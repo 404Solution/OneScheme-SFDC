@@ -31,9 +31,3 @@ jobs:
 
     - name: Clean up workspace
       run: rm -rf ${{ github.workspace }}/*
-
-    - name: Clean up runner
-      run: |
-        rm -rf /tmp/*
-        rm -rf ~/.m2/repository
-        rm -rf ${{ github.workspace }}
